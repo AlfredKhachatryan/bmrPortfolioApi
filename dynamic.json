@@ -170,12 +170,12 @@
               {
                 "title": "About Us",
                 "link": "/about",
-                "disabled": true
+                "disabled": false
               },
               {
                 "title": "Services",
                 "link": "/services",
-                "disabled": true
+                "disabled": false
               },
               {
                 "title": "Our Team",
@@ -185,22 +185,22 @@
               {
                 "title": "Devices And Accessories",
                 "link": "/devices",
-                "disabled": true
+                "disabled": false
               },
               {
                 "title": "Blog",
                 "link": "/blog",
-                "disabled": true
+                "disabled": false
               },
               {
                 "title": "Contact Us",
                 "link": "/contacts",
-                "disabled": true
+                "disabled": false
               },
               {
                 "title": "FAQ",
                 "link": "/faq",
-                "disabled": true
+                "disabled": false
               }
             ],
             "iconBox": [
