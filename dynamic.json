@@ -1,0 +1,1322 @@
+{
+    "dynamic":{
+        "global": {
+            "team": [
+              {
+                "img": "images/team-member/alfred.jpg",
+                "content": "Ceo of Bloody Moon Riders",
+                "title": "NeonCatRider",
+                "data": "alfred"
+              },
+              {
+                "img": "images/team-member/ero.jpg",
+                "content": "Best Dota player in BMR",
+                "title": "Septum",
+                "data": "ero"
+              },
+              {
+                "img": "images/team-member/aram.jpg",
+                "content": "Loli Hunter",
+                "title": "Env33",
+                "data": "aram"
+              },
+              {
+                "img": "images/team-member/kolya.jpg",
+                "content": "Playing Dota only for CHC",
+                "title": "Delev1n",
+                "data": "kolya"
+              }
+            ],
+            "testimonial": [
+              {
+                "img": "images/testimonial/01.jpg",
+                "name": "Rashley Foster",
+                "subtitle": "Patient",
+                "body": "Prior to my stay at Delmont, I was aware of their stellar reputation and multiple friends commented about how lucky I was to have my surgery scheduled there. As a result my expectations were high and yet the kind and professional staff with excellent patient care surpassed them."
+              },
+              {
+                "img": "images/testimonial/02.jpg",
+                "name": "Alan Sears",
+                "subtitle": "Patient",
+                "body": "Great co workers, really good environment and excellent patient care. They are continuously innovating themselves which is why they remain a premier dental clinic.This was the cleanest medical establishment I've ever been in. They just loved the welcoming and warm atmosphere in there."
+              },
+              {
+                "img": "images/testimonial/03.jpg",
+                "name": "Raymon Myers",
+                "subtitle": "Patient",
+                "body": " The doctors and nurses and aides were excellent. The food was excellent. I am feeling fine and very lucky, back to my old self again and it feels great. Thank God for clinics such as yours. I appreciate all your kindness and good care you gave me is beyond my expectations they wonder for me."
+              },
+              {
+                "img": "images/testimonial/01.jpg",
+                "name": "Rashley Foster",
+                "subtitle": "Patient",
+                "body": "Prior to my stay at Delmont, I was aware of their stellar reputation and multiple friends commented about how lucky I was to have my surgery scheduled there. As a result my expectations were high and yet the kind and professional staff with excellent patient care surpassed them."
+              },
+              {
+                "img": "images/testimonial/02.jpg",
+                "name": "Alan Sears",
+                "subtitle": "Patient",
+                "body": "Great co workers, really good environment and excellent patient care. They are continuously innovating themselves which is why they remain a premier dental clinic.This was the cleanest medical establishment I've ever been in. They just loved the welcoming and warm atmosphere in there."
+              },
+              {
+                "img": "images/testimonial/03.jpg",
+                "name": "Raymon Myers",
+                "subtitle": "Patient",
+                "body": " The doctors and nurses and aides were excellent. The food was excellent. I am feeling fine and very lucky, back to my old self again and it feels great. Thank God for clinics such as yours. I appreciate all your kindness and good care you gave me is beyond my expectations they wonder for me."
+              }
+            ],
+            "clients": [
+              {
+                "img": "images/client/client-01.png",
+                "hover": "client-01"
+              },
+              {
+                "img": "images/client/client-02.png",
+                "hover": "client-02"
+              },
+              {
+                "img": "images/client/client-03.png",
+                "hover": "client-03"
+              },
+              {
+                "img": "images/client/client-01.png",
+                "hover": "client-01"
+              },
+              {
+                "img": "images/client/client-02.png",
+                "hover": "client-02"
+              },
+              {
+                "img": "images/client/client-03.png",
+                "hover": "client-03"
+              }
+            ],
+            "blog": [
+              {
+                "img": "images/blog/01.jpg",
+                "dateAttr": "2019-01-16T07:07:55+00:00",
+                "day": 16,
+                "month": "Jan",
+                "year": 2019,
+                "commCount": 3,
+                "publisher": "Alex",
+                "title": "25+5=36? специальная новость для Арама",
+                "subtitle": "Как то раз Арам играл в блот,он посмотрел на карты и увидел 50 ему в голову пришла гениальная идея он сказать Բոյը 36..."
+              },
+              {
+                "img": "images/blog/02.jpg",
+                "dateAttr": "2019-01-16T07:07:55+00:00",
+                "day": 20,
+                "month": "Jan",
+                "year": 2019,
+                "commCount": 3,
+                "publisher": "Alex",
+                "title": "Implant Surgical equipment technology",
+                "subtitle": " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's..."
+              },
+              {
+                "img": "images/blog/03.jpg",
+                "dateAttr": "2019-01-16T07:07:55+00:00",
+                "day": 24,
+                "month": "Jan",
+                "year": 2019,
+                "commCount": 3,
+                "publisher": "Alex",
+                "title": "The Benefits of Middle-Age Fitness",
+                "subtitle": " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's..."
+              },
+              {
+                "img": "images/blog/01.jpg",
+                "dateAttr": "2019-01-16T07:07:55+00:00",
+                "day": 16,
+                "month": "Jan",
+                "year": 2019,
+                "commCount": 3,
+                "publisher": "Alex",
+                "title": "How much aspirin to take for stroke",
+                "subtitle": " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's..."
+              },
+              {
+                "img": "images/blog/02.jpg",
+                "dateAttr": "2019-01-16T07:07:55+00:00",
+                "day": 20,
+                "month": "Jan",
+                "year": 2019,
+                "commCount": 3,
+                "publisher": "Alex",
+                "title": "Implant Surgical equipment technology",
+                "subtitle": " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's..."
+              },
+              {
+                "img": "images/blog/03.jpg",
+                "dateAttr": "2019-01-16T07:07:55+00:00",
+                "day": 24,
+                "month": "Jan",
+                "year": 2019,
+                "commCount": 3,
+                "publisher": "Alex",
+                "title": "The Benefits of Middle-Age Fitness",
+                "subtitle": " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's..."
+              }
+            ]
+          },
+          "header": {
+            "links": [
+              {
+                "title": "Home",
+                "link": "/",
+                "disabled": false
+              },
+              {
+                "title": "About Us",
+                "link": "/about",
+                "disabled": true
+              },
+              {
+                "title": "Services",
+                "link": "/services",
+                "disabled": true
+              },
+              {
+                "title": "Our Team",
+                "link": "/doctors",
+                "disabled": false
+              },
+              {
+                "title": "Devices And Accessories",
+                "link": "/devices",
+                "disabled": true
+              },
+              {
+                "title": "Blog",
+                "link": "/blog",
+                "disabled": true
+              },
+              {
+                "title": "Contact Us",
+                "link": "/contacts",
+                "disabled": true
+              },
+              {
+                "title": "FAQ",
+                "link": "/faq",
+                "disabled": true
+              }
+            ],
+            "iconBox": [
+              {
+                "icon": "fa fa-shield",
+                "title": "Saqo",
+                "subtitle": "In Army Since 2021/07"
+              },
+              {
+                "icon": "fa-solid fa-person-rifle",
+                "title": "Harut",
+                "subtitle": "In Army Since 2021/07"
+              },
+              {
+                "icon": " fa-solid fa-person-praying",
+                "title": "Not Afo",
+                "subtitle": "In Army Since Never"
+              }
+            ]
+          },
+          "home": {
+            "iconBox": [
+              {
+                "icon": "fa-light fa-headset",
+                "title": "DOTA 2",
+                "subtitle": "ЗЕВС УЛЬТУЙ!",
+                "link": "steam://launch/570/Dialog"
+              },
+              {
+                "icon": "fa-light fa-gamepad",
+                "title": "Brawlhalla",
+                "subtitle": "No Rocket Lance",
+                "link": "steam://launch/291550/Dialog"
+              },
+              {
+                "icon": "fa-light fa-person-military-rifle",
+                "title": "CS:GO",
+                "subtitle": "Револьвер OneLove",
+                "link": "steam://launch/730/Dialog"
+              },
+              {
+                "icon": "fa-light fa-cards",
+                "title": "Blot",
+                "subtitle": "Բոյը 36",
+                "link": "https://reblot.am"
+              }
+            ],
+            "serviceIconBox": [
+              {
+                "icon": "flaticon-doctor-1",
+                "title": "ы",
+                "subtitle": "For normal & complex disease. subspecialties in sleep medicine, cancer etc."
+              },
+              {
+                "icon": "flaticon-first-aid-kit",
+                "title": "Osteopaths",
+                "subtitle": "DOs are just like MDs. Recommend for a \"whole body” approach."
+              },
+              {
+                "icon": "flaticon-patient-1",
+                "title": "Oncologists",
+                "subtitle": "An Internists! to cure cancer, work with radiation oncologists & surgeons."
+              },
+              {
+                "icon": "flaticon-care",
+                "title": "Podiatrists",
+                "subtitle": " The specialists who help with problems that affect your feet or lower legs."
+              }
+            ],
+            "list": [
+              {
+                "titles": [
+                  {
+                    "title": "Ну это гг парни"
+                  },
+                  {
+                    "title": "Мы слили"
+                  },
+                  {
+                    "title": "Арам купи BKB"
+                  },
+                  {
+                    "title": "Я больше с вами играть не буду"
+                  }
+                ]
+              },
+              {
+                "titles": [
+                  {
+                    "title": "Знакомьтесь это мой Тиммейт"
+                  },
+                  {
+                    "title": "Էս տղենա"
+                  },
+                  {
+                    "title": "Нюхни Бебру"
+                  },
+                  {
+                    "title": "Չախողը տղա չի"
+                  }
+                ]
+              }
+            ],
+            "stats": [
+              {
+                "title": "Побед В Турнирах",
+                "number": 0,
+                "interval": 0,
+                "icon": "fa-solid fa-trophy"
+              },
+              {
+                "title": "Попыток в Туринирах",
+                "number": 2,
+                "interval": 1,
+                "icon": "fa-solid fa-check"
+              },
+              {
+                "title": "Парней в армии",
+                "number": 2,
+                "interval": 2,
+                "icon": "fa-regular fa-user"
+              },
+              {
+                "title": "Слитых каток",
+                "number": 4213,
+                "interval": 1,
+                "icon": "themifyicon ti-thumb-up"
+              }
+            ]
+          },
+          "aboutUs": {
+            "accordion": [
+              {
+                "img": "images/portfolio/post-one-1200x800.jpg",
+                "title": "Our Mission",
+                "toggle": "active",
+                "body": " Our Clinic has grown to provide a world class facility for the treatment of tooth loss, dental cosmetics and bore advanced restorative dentistry. We are among the most qualified implant providers in the AUS with over 30 years of quality training and experience."
+              },
+              {
+                "img": "images/portfolio/post-two-1200x800.jpg",
+                "title": "Our Vision",
+                "body": "Our Clinic has grown to provide a world class facility for the treatment of tooth loss, dental cosmetics and bore advanced restorative dentistry. We are among the most qualified implant providers in the AUS with over 30 years of quality training and experience"
+              },
+              {
+                "img": "images/portfolio/post-one-1200x800.jpg",
+                "title": "Our Mission",
+                "body": " Our Clinic has grown to provide a world class facility for the treatment of tooth loss, dental cosmetics and bore advanced restorative dentistry. We are among the most qualified implant providers in the AUS with over 30 years of quality training and experience."
+              }
+            ]
+          },
+          "device": {
+            "banner": [
+              {
+                "img": "images/banner-one.jpg"
+              },
+              {
+                "img": "images/banner-two.jpg"
+              },
+              {
+                "img": "images/banner-three.jpg"
+              },
+              {
+                "img": "images/banner-four.jpg"
+              }
+            ],
+            "product": [
+              {
+                "img": "images/product/product-one.jpg",
+                "title": "Stethoscope",
+                "price": "20.00",
+                "discount": "2.00"
+              },
+              {
+                "img": "images/product/product-two.jpg",
+                "title": "Panthenol",
+                "price": "18.00",
+                "discount": "0"
+              },
+              {
+                "img": "images/product/product-three.jpg",
+                "title": "Syringe 5ml",
+                "price": "3.00",
+                "discount": "2.00"
+              },
+              {
+                "img": "images/product/product-four.jpg",
+                "title": "ECG Machine",
+                "price": "15.00",
+                "discount": ""
+              },
+              {
+                "img": "images/product/product-five.jpg",
+                "title": "Accu Check",
+                "price": "20.00",
+                "discount": "0"
+              },
+              {
+                "img": "images/product/product-six.jpg",
+                "title": "Asthma inhaler",
+                "price": "25.00",
+                "discount": "0"
+              },
+              {
+                "img": "images/product/product-seven.jpg",
+                "title": "Calendula Pills",
+                "price": "45.00",
+                "discount": "0"
+              },
+              {
+                "img": "images/product/product-four.jpg",
+                "title": "Tonometer",
+                "price": "90.00",
+                "discount": "0"
+              }
+            ]
+          },
+          "sideBar": {
+            "categories": [
+              {
+                "text": "Ayurveda",
+                "number": 1
+              },
+              {
+                "text": "Cardiac",
+                "number": 3
+              },
+              {
+                "text": "Health care",
+                "number": 4
+              },
+              {
+                "text": "LifeStyle",
+                "number": 2
+              },
+              {
+                "text": "Medical",
+                "number": 6
+              },
+              {
+                "text": "Quote",
+                "number": 1
+              },
+              {
+                "text": "All Categories",
+                "number": 0
+              }
+            ]
+          },
+          "servicesSideBar": {
+            "navbar": [
+              {
+                "title": "Neurology Services",
+                "link": "services"
+              },
+              {
+                "title": "X-ray & RMI Services",
+                "link": "x-ray-rmi-services"
+              },
+              {
+                "title": "Orthopaedics Services",
+                "link": "orthopaedics-services"
+              },
+              {
+                "title": "Eye Care Services",
+                "link": "eye-care-services"
+              },
+              {
+                "title": "Dental Services",
+                "link": "dental-services"
+              },
+              {
+                "title": "Cardiology Services",
+                "link": "cardiology-services"
+              }
+            ]
+          },
+          "faq": {
+            "questions": [
+              {
+                "img": "images/portfolio/post-one-1200x800.jpg",
+                "title": "Our Mission",
+                "toggle": "active",
+                "body": " Our Clinic has grown to provide a world class facility for the treatment of tooth loss, dental cosmetics and bore advanced restorative dentistry. We are among the most qualified implant providers in the AUS with over 30 years of quality training and experience."
+              },
+              {
+                "img": "images/portfolio/post-two-1200x800.jpg",
+                "title": "Our Vision",
+                "body": "Our Clinic has grown to provide a world class facility for the treatment of tooth loss, dental cosmetics and bore advanced restorative dentistry. We are among the most qualified implant providers in the AUS with over 30 years of quality training and experience"
+              },
+              {
+                "img": "images/portfolio/post-one-1200x800.jpg",
+                "title": "Our Mission",
+                "body": " Our Clinic has grown to provide a world class facility for the treatment of tooth loss, dental cosmetics and bore advanced restorative dentistry. We are among the most qualified implant providers in the AUS with over 30 years of quality training and experience."
+              },
+              {
+                "img": "images/portfolio/post-one-1200x800.jpg",
+                "title": "Our Mission",
+                "body": " Our Clinic has grown to provide a world class facility for the treatment of tooth loss, dental cosmetics and bore advanced restorative dentistry. We are among the most qualified implant providers in the AUS with over 30 years of quality training and experience."
+              },
+              {
+                "img": "images/portfolio/post-two-1200x800.jpg",
+                "title": "Our Vision",
+                "body": "Our Clinic has grown to provide a world class facility for the treatment of tooth loss, dental cosmetics and bore advanced restorative dentistry. We are among the most qualified implant providers in the AUS with over 30 years of quality training and experience"
+              },
+              {
+                "img": "images/portfolio/post-one-1200x800.jpg",
+                "title": "Our Mission",
+                "body": " Our Clinic has grown to provide a world class facility for the treatment of tooth loss, dental cosmetics and bore advanced restorative dentistry. We are among the most qualified implant providers in the AUS with over 30 years of quality training and experience."
+              },
+              {
+                "img": "images/portfolio/post-one-1200x800.jpg",
+                "title": "Our Mission",
+                "body": " Our Clinic has grown to provide a world class facility for the treatment of tooth loss, dental cosmetics and bore advanced restorative dentistry. We are among the most qualified implant providers in the AUS with over 30 years of quality training and experience."
+              },
+              {
+                "img": "images/portfolio/post-two-1200x800.jpg",
+                "title": "Our Vision",
+                "body": "Our Clinic has grown to provide a world class facility for the treatment of tooth loss, dental cosmetics and bore advanced restorative dentistry. We are among the most qualified implant providers in the AUS with over 30 years of quality training and experience"
+              },
+              {
+                "img": "images/portfolio/post-one-1200x800.jpg",
+                "title": "Our Mission",
+                "body": " Our Clinic has grown to provide a world class facility for the treatment of tooth loss, dental cosmetics and bore advanced restorative dentistry. We are among the most qualified implant providers in the AUS with over 30 years of quality training and experience."
+              },
+              {
+                "title": "img",
+                "body": " Our Clinic has grown to provide a world class facility for the treatment of tooth loss, dental cosmetics and bore advanced restorative dentistry. We are among the most qualified implant providers in the AUS with over 30 years of quality training and experience."
+              }
+            ]
+          },
+          "contactUs": {
+            "form": [
+              {
+                "icon": "ti-user",
+                "title": "Your Name",
+                "name": "your-name",
+                "type": "text"
+              },
+              {
+                "icon": "ti-mobile",
+                "title": "Cell Phone",
+                "name": "your-phone",
+                "type": "text"
+              },
+              {
+                "icon": "ti-email",
+                "title": "Email",
+                "name": "email",
+                "type": "email"
+              },
+              {
+                "icon": "ti-location-pin",
+                "title": "Venue",
+                "name": "venue",
+                "type": "text"
+              },
+              {
+                "icon": "ti-comment",
+                "title": "Message",
+                "name": "message",
+                "type": ""
+              }
+            ],
+            "card": [
+              {
+                "icon": "fa fa-map-marker",
+                "title": "58 BalSouth Lane,Harward Street",
+                "subtitle": "NewYork 33025"
+              },
+              {
+                "icon": "fa fa-envelope-o",
+                "title": "info@domainname.com",
+                "subtitle": "Need support? Drop us an email"
+              },
+              {
+                "icon": "fa fa-phone",
+                "title": "+123 456 78910 / 11",
+                "subtitle": "Have a question? call us now"
+              },
+              {
+                "icon": "fa fa-clock-o",
+                "title": "Mon – Sat 07:00 – 21:00",
+                "subtitle": "We are open on"
+              }
+            ]
+          },
+          "teamDetails": {
+            "alfred": [
+              {
+                "name": "Alfred",
+                "img": "images/team-member/alfred-details.jpg",
+                "pos": "CEO of Bloody Moon Riders",
+                "descrip": [
+                  {
+                    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto."
+                  },
+                  {
+                    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto."
+                  }
+                ],
+                "nick": "NeonCatRider",
+                "favGame": "Dota 2, CS:GO, Brawlhalla",
+                "gameRank": "Guardian 1",
+                "gamePos": "Semi-Support, Full-Support",
+                "certif": [
+                  {
+                    "img": "images/certf.jpg"
+                  },
+                  {
+                    "img": "images/certf.jpg"
+                  }
+                ],
+                "awards": [
+                  {
+                    "title": "2018 World Health Oraganized Award",
+                    "icon": "fa fa-heart",
+                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna."
+                  },
+                  {
+                    "title": "2016 World Health Oraganized Award",
+                    "icon": "fa fa-medkit",
+                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna."
+                  }
+                ],
+                "teamInfo": [
+                  {
+                    "title": "Bloody Moon Riders",
+                    "since": "2020-Yet"
+                  }
+                ],
+                "skills": [
+                  {
+                    "title": "Dota 2",
+                    "skill": "60"
+                  },
+                  {
+                    "title": "Brawlhalla",
+                    "skill": "70"
+                  },
+                  {
+                    "title": "CS:GO",
+                    "skill": "65"
+                  }
+                ],
+                "quotes": [
+                  {
+                    "text": [
+                      {
+                        "quote": "Приятно или не приятно это дело субьективное.",
+                        "to": "",
+                        "navTo": "alfred",
+                        "from": "",
+                        "navFrom": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": [
+                      {
+                        "quote": "Эта цитата как антимаг.",
+                        "to": "",
+                        "navTo": "",
+                        "from": "",
+                        "navFrom": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": [
+                      {
+                        "quote": "Cockторская колбаса.",
+                        "to": "",
+                        "navTo": "",
+                        "from": "",
+                        "navFrom": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": [
+                      {
+                        "quote": "Ты когда нибудь ел пережаренное жесткое мясо?",
+                        "to": "Septum",
+                        "navTo": "ero",
+                        "from": "",
+                        "navFrom": ""
+                      },
+                      {
+                        "quote": "Да.",
+                        "to": "NeonCatRider",
+                        "navTo": "afo",
+                        "from": "",
+                        "navFrom": ""
+                      },
+                      {
+                        "quote": "Ты жестче.",
+                        "to": "Septum",
+                        "navTo": "ero",
+                        "from": "",
+                        "navFrom": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": [
+                      {
+                        "quote": "Моя мама животных не любит.",
+                        "to": "",
+                        "navTo": "aram",
+                        "from": "Env33",
+                        "navFrom": ""
+                      },
+                      {
+                        "quote": "А как же ты?.",
+                        "to": "",
+                        "navTo": "alfred",
+                        "from": "NeonCatRider",
+                        "navFrom": "alfred"
+                      },
+                      {
+                        "quote": "Я исключение.",
+                        "to": "",
+                        "navTo": "aram",
+                        "from": "Env33",
+                        "navFrom": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": [
+                      {
+                        "quote": "У меня не ռուկ, а ռուկ.",
+                        "to": "",
+                        "navTo": "",
+                        "from": "NeonCatRider",
+                        "navFrom": "alfred"
+                      },
+                      {
+                        "quote": "У тебя не ռուկ, а ног.",
+                        "to": "",
+                        "navTo": "",
+                        "from": "Delev1n",
+                        "navFrom": "kolya"
+                      },
+                      {
+                        "quote": "Знакомтесь, мой тиммейт.",
+                        "to": "",
+                        "navTo": "",
+                        "from": "Septum",
+                        "navFrom": "ero"
+                      }
+                    ]
+                  },
+                  {
+                    "text": [
+                      {
+                        "quote": "Это магазин или человек?",
+                        "from": "Env33",
+                        "to": "",
+                        "navTo": "",
+                        "navFrom": "aram"
+                      },
+                      {
+                        "quote": "Написано магазин компьютерной техники.",
+                        "to": "",
+                        "navTo": "",
+                        "from": "NeonCatRider",
+                        "navFrom": "alfred"
+                      },
+                      {
+                        "quote": " Да, магазин компьютерной техники Виталий.",
+                        "to": "",
+                        "navTo": "",
+                        "from": "Env33",
+                        "navFrom": "aram"
+                      }
+                    ]
+                  }
+                ],
+                "bday": "June 22"
+              }
+            ],
+            "ero": [
+              {
+                "name": "Ero",
+                "img": "images/team-member/ero-details.jpg",
+                "pos": "One of the first members of BMR and such a good ",
+                "descrip": [
+                  {
+                    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto."
+                  },
+                  {
+                    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto."
+                  }
+                ],
+                "nick": "Septum",
+                "favGame": "Dota 2, Minecraft, Subnautica, Brawlhalla",
+                "gameRank": "Divine",
+                "gamePos": "Offlane, Carry",
+                "certif": [
+                  {
+                    "img": "images/certf.jpg"
+                  },
+                  {
+                    "img": "images/certf.jpg"
+                  }
+                ],
+                "awards": [
+                  {
+                    "title": "First Achieved Divine In BMR",
+                    "icon": "fa fa-trophy",
+                    "subtitle": "."
+                  },
+                  {
+                    "title": "Healty Lifestyle",
+                    "icon": "fa fa-medkit",
+                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna."
+                  },
+                  {
+                    "title": "Strange Music Lover",
+                    "icon": "fa-solid fa-headphones",
+                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna."
+                  }
+                ],
+                "teamInfo": [
+                  {
+                    "title": "Bloody Moon Riders",
+                    "since": "2020-Yet",
+                    "text": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni."
+                  }
+                ],
+                "skills": [
+                  {
+                    "title": "Dota 2",
+                    "skill": "80"
+                  },
+                  {
+                    "title": "Brawlhalla",
+                    "skill": "70"
+                  },
+                  {
+                    "title": "CS:GO",
+                    "skill": "5"
+                  }
+                ],
+                "quotes": [
+                  {
+                    "text": [
+                      {
+                        "quote": "Афо твоя работа как Санта, ты в неё веришь, но её нет.",
+                        "to": "NeonCatRider",
+                        "navTo": "alfred",
+                        "from": "",
+                        "navFrom": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": [
+                      {
+                        "quote": "А что если зоопарк нужен для того чтобы богатые животные посмотрели на нас?.",
+                        "to": "",
+                        "navTo": "",
+                        "from": "",
+                        "navFrom": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": [
+                      {
+                        "quote": "Фенито! ФЕЕЕЕНИИТООООООО! на голос иди.",
+                        "to": "",
+                        "navTo": "",
+                        "from": "",
+                        "navFrom": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": [
+                      {
+                        "quote": "Ты неправильно.",
+                        "to": "",
+                        "navTo": "",
+                        "from": "",
+                        "navFrom": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": [
+                      {
+                        "quote": "Ես 2-րդ շունը ուրդիծ.",
+                        "to": "",
+                        "navTo": "",
+                        "from": "",
+                        "navFrom": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": [
+                      {
+                        "quote": "Չախողը տղա չի.",
+                        "to": "",
+                        "navTo": "",
+                        "from": "",
+                        "navFrom": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": [
+                      {
+                        "quote": "Мы их на спауне зазали.",
+                        "to": "",
+                        "navTo": "",
+                        "from": "",
+                        "navFrom": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": [
+                      {
+                        "quote": "Как называют мексиканца, который вбежал в США и не может уйти? Неизбееежнец.",
+                        "to": "",
+                        "navTo": "",
+                        "from": "",
+                        "navFrom": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": [
+                      {
+                        "quote": "Мы с ним как братья.",
+                        "to": "",
+                        "navTo": "",
+                        "from": "Septum",
+                        "navFrom": "ero"
+                      },
+                      {
+                        "quote": "У которых родители брат с сестрой.",
+                        "to": "",
+                        "navTo": "",
+                        "from": "Env33",
+                        "navFrom": "aram"
+                      }
+                    ]
+                  },
+                  {
+                    "text": [
+                      {
+                        "quote": "Как зовут девочек которые пытаются выглядить как мальчики?",
+                        "to": "",
+                        "navTo": "",
+                        "from": "Delev1n",
+                        "navFrom": "kolya"
+                      },
+                      {
+                        "quote": "Эмо?",
+                        "to": "Delev1n",
+                        "navTo": "",
+                        "from": "",
+                        "navFrom": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": [
+                      {
+                        "quote": "Помнишь женщинам права дали?",
+                        "to": "",
+                        "navTo": "",
+                        "from": "Septum",
+                        "navFrom": "ero"
+                      },
+                      {
+                        "quote": "Да а Коле нет.",
+                        "to": "Delev1n",
+                        "navTo": "kolya",
+                        "from": "Env33",
+                        "navFrom": "aram"
+                      }
+                    ]
+                  },
+                  {
+                    "text": [
+                      {
+                        "quote": "У меня не ռուկ, а ռուկ.",
+                        "to": "",
+                        "navTo": "aram",
+                        "from": "NeonCatRider",
+                        "navFrom": "alfred"
+                      },
+                      {
+                        "quote": "У тебя не ռուկ, а ног.",
+                        "to": "",
+                        "navTo": "",
+                        "from": "Delev1n",
+                        "navFrom": "kolya"
+                      },
+                      {
+                        "quote": "Знакомтесь, мой тиммейт.",
+                        "to": "",
+                        "navTo": "",
+                        "from": "Septum",
+                        "navFrom": "ero"
+                      }
+                    ]
+                  }
+                ],
+                "bday": "Semtember 27"
+              }
+            ],
+            "aram": [
+              {
+                "name": "Aram",
+                "img": "images/team-member/aram-details.jpg",
+                "pos": "Administrator of BMR and Gay",
+                "descrip": [
+                  {
+                    "text": "Fuch english languge, fuck this WebSite, fuch who make this WebSite, my friends is gay-s"
+                  }
+                ],
+                "nick": "Env33",
+                "favGame": "Dota 2, Minecraft, Terraria, Brawlhalla",
+                "gameRank": "Guardian 3",
+                "gamePos": "Offlane, Carry",
+                "certif": [
+                  {
+                    "img": "images/certf.jpg"
+                  },
+                  {
+                    "img": "images/certf.jpg"
+                  }
+                ],
+                "awards": [
+                  {
+                    "title": "Rogalike Lover",
+                    "icon": "fa fa-heart",
+                    "subtitle": "He love when his trying so hard to beat a game , that his face look liks a tomato"
+                  },
+                  {
+                    "title": "#NoDonat",
+                    "icon": "fa fa-money",
+                    "subtitle": "He never donated to any game ever"
+                  },
+                  {
+                    "title": "BKB Hater",
+                    "icon": "fa-solid fa-hand-middle-finger",
+                    "subtitle": "He think that BKB is for loser"
+                  }
+                ],
+                "teamInfo": [
+                  {
+                    "title": "Bloody Moon Riders",
+                    "since": "2020-Yet",
+                    "text": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni."
+                  }
+                ],
+                "skills": [
+                  {
+                    "title": "Dota 2",
+                    "skill": "65"
+                  },
+                  {
+                    "title": "Brawlhalla",
+                    "skill": "70"
+                  },
+                  {
+                    "title": "CS:GO",
+                    "skill": "5"
+                  }
+                ],
+                "quotes": [
+                  {
+                    "text": [
+                      {
+                        "quote": "Я вертолет я вертолет я *бал вас в рот.",
+                        "to": "",
+                        "navTo": "",
+                        "from": "",
+                        "navFrom": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": [
+                      {
+                        "quote": "У меня было стодвести iq.",
+                        "to": "",
+                        "navTo": "",
+                        "from": "",
+                        "navFrom": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": [
+                      {
+                        "quote": "Моя мама животных не любит.",
+                        "from": "Env33",
+                        "to": "",
+                        "navTo": "aram"
+                      },
+                      {
+                        "quote": "А как же ты?.",
+                        "to": "",
+                        "navTo": "alfred",
+                        "from": "NeonCatRider",
+                        "navFrom": "alfred"
+                      },
+                      {
+                        "quote": "Я исключение.",
+                        "from": "Env33",
+                        "to": "",
+                        "navTo": "aram"
+                      }
+                    ]
+                  },
+                  {
+                    "text": [
+                      {
+                        "quote": "Это магазин или человек?",
+                        "from": "Env33",
+                        "to": "",
+                        "navTo": "",
+                        "navFrom": "aram"
+                      },
+                      {
+                        "quote": "Написано магазин компьютерной техники.",
+                        "to": "",
+                        "navTo": "",
+                        "from": "NeonCatRider",
+                        "navFrom": "alfred"
+                      },
+                      {
+                        "quote": " Да, магазин компьютерной техники Виталий.",
+                        "to": "",
+                        "navTo": "",
+                        "from": "Env33",
+                        "navFrom": "aram"
+                      }
+                    ]
+                  },
+                  {
+                    "text": [
+                      {
+                        "quote": "Помнишь женщинам права дали?",
+                        "to": "",
+                        "navTo": "",
+                        "from": "Septum",
+                        "navFrom": "ero"
+                      },
+                      {
+                        "quote": "Да а Коле нет.",
+                        "to": "Delev1n",
+                        "navTo": "kolya",
+                        "from": "Env33",
+                        "navFrom": "aram"
+                      }
+                    ]
+                  }
+                ],
+                "bday": "August 11"
+              }
+            ],
+            "kolya": [
+              {
+                "name": "Kolya",
+                "img": "images/team-member/kolya-details.jpg",
+                "pos": "Administrator of BMR",
+                "descrip": [
+                  {
+                    "text": "Delev1n started playing Dota 2 only for CHC (Custom Hero Clash) and got pretty good at it, but sucks big black cocks in turbo and all pick. The main genre he plays are shooters and strategy. He hit the first Diamond rank in Rainbow Six Siege."
+                  }
+                ],
+                "nick": "Delev1n",
+                "favGame": "Rainbow Six Siege, CS:GO, Dota 2",
+                "gameRank": "No Rank in Dota",
+                "gamePos": "Full Support, Semi-Support",
+                "certif": [
+                  {
+                    "img": "images/certf_del.jpg"
+                  },
+                  {
+                    "img": "images/certf_del.jpg"
+                  }
+                ],
+                "awards": [
+                  {
+                    "title": "First Achieved Highest Rank (At the time) in R6S In BMR",
+                    "icon": "fa fa-trophy",
+                    "subtitle": "Hit Diamond in Neon Dawn on PC."
+                  },
+                  {
+                    "title": "Real Programmer and Student",
+                    "icon": "fa fa-code",
+                    "subtitle": "Studies in Moscow State University in Applied Mathematics."
+                  },
+                  {
+                    "title": "AoE III Veteran",
+                    "icon": "fa-solid fa-helmet-battle",
+                    "subtitle": "Started playing Age of Empires III before talking."
+                  }
+                ],
+                "teamInfo": [
+                  {
+                    "title": "Bloody Moon Riders",
+                    "since": "2020-Yet",
+                    "text": "Joined BMR not long ago compared to others, but got pretty close to everyone."
+                  }
+                ],
+                "skills": [
+                  {
+                    "title": "Dota 2",
+                    "skill": "40"
+                  },
+                  {
+                    "title": "Brawlhalla",
+                    "skill": "50"
+                  },
+                  {
+                    "title": "CS:GO",
+                    "skill": "75"
+                  },
+                  {
+                    "title": "R6S",
+                    "skill": "95"
+                  }
+                ],
+                "quotes": [
+                  {
+                    "text": [
+                      {
+                        "quote": "Клоуны в цирке не выступают.",
+                        "to": "",
+                        "navTo": "",
+                        "from": "",
+                        "navFrom": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": [
+                      {
+                        "quote": "Я отвлекал время.",
+                        "to": "",
+                        "navTo": "",
+                        "from": "",
+                        "navFrom": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": [
+                      {
+                        "quote": "Я итак Эро дрессировал играть в варфейс.",
+                        "to": "",
+                        "navTo": "",
+                        "from": "",
+                        "navFrom": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": [
+                      {
+                        "quote": "Что они только животных добавляют: сначала акула, потом птица, потом негра...",
+                        "to": "",
+                        "navTo": "",
+                        "from": "",
+                        "navFrom": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": [
+                      {
+                        "quote": "Главное не размер, а участие",
+                        "to": "",
+                        "navTo": "",
+                        "from": "",
+                        "navFrom": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": [
+                      {
+                        "quote": "Как называют мексиканца, который вбежал в США и не может уйти? Неизбееежнец.",
+                        "to": "",
+                        "navTo": "",
+                        "from": "",
+                        "navFrom": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": [
+                      {
+                        "quote": "Клоуны в цирке не выступают.",
+                        "to": "",
+                        "navTo": "",
+                        "from": "",
+                        "navFrom": ""
+                      }
+                    ]
+                  }
+                ],
+                "bday": "October 11"
+              }
+            ]
+          }
+    }
+  }
