@@ -167,13 +167,8 @@
                 "disabled": false
               },
               {
-                "title": "About Us",
+                "title": "Gallery(alpha)",
                 "link": "/testImage",
-                "disabled": false
-              },
-               {
-                "title": "testUpload",
-                "link": "/testUpload",
                 "disabled": false
               },
               {
