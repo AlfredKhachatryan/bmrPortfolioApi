@@ -169,12 +169,12 @@
               {
                 "title": "About Us",
                 "link": "/testImage",
-                "disabled": true
+                "disabled": false
               },
                {
                 "title": "testUpload",
                 "link": "/testUpload",
-                "disabled": true
+                "disabled": false
               },
               {
                 "title": "Services",
