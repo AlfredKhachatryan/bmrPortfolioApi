@@ -168,7 +168,12 @@
               },
               {
                 "title": "About Us",
-                "link": "/about",
+                "link": "/testImage",
+                "disabled": true
+              },
+               {
+                "title": "testUpload",
+                "link": "/testUpload",
                 "disabled": true
               },
               {
