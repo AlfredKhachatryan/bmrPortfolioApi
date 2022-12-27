@@ -168,7 +168,7 @@
               },
               {
                 "title": "Gallery(alpha)",
-                "link": "/testImage",
+                "link": "/gallery",
                 "disabled": false
               },
               {
@@ -178,7 +178,7 @@
               },
               {
                 "title": "Our Team",
-                "link": "/doctors",
+                "link": "/team",
                 "disabled": false
               },
               {
