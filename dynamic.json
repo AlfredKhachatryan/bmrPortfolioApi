@@ -189,7 +189,7 @@
               {
                 "title": "Blog",
                 "link": "/blog",
-                "disabled": true
+                "disabled": false
               },
               {
                 "title": "Contact Us",
