@@ -167,7 +167,7 @@
                 "disabled": false
               },
               {
-                "title": "Gallery(alpha)",
+                "title": "Gallery",
                 "link": "/gallery",
                 "disabled": false
               },
@@ -205,18 +205,18 @@
             "iconBox": [
               {
                 "icon": "fa fa-shield",
-                "title": "Saqo",
-                "subtitle": "In Army Since 2021/07"
+                "title": "Lorem",
+                "subtitle": "Lorem Ipsum Dolor"
               },
               {
                 "icon": "fa-solid fa-person-rifle",
-                "title": "Harut",
-                "subtitle": "In Army Since 2021/07"
+                "title": "Lorem",
+                "subtitle": "Lorem Ipsum Dolor"
               },
               {
                 "icon": " fa-solid fa-person-praying",
-                "title": "Not Afo",
-                "subtitle": "In Army Since Never"
+                "title": "Lorem",
+                "subtitle": "Lorem Ipsum Dolor"
               }
             ]
           },
@@ -224,27 +224,27 @@
             "iconBox": [
               {
                 "icon": "fa-light fa-headset",
-                "title": "DOTA 2",
-                "subtitle": "ЗЕВС УЛЬТУЙ!",
-                "link": "steam://launch/570/Dialog"
+                "title": "Lorem",
+                "subtitle": "Lorem Ipsum",
+                "link": "#"
               },
               {
                 "icon": "fa-light fa-gamepad",
-                "title": "Brawlhalla",
-                "subtitle": "No Rocket Lance",
-                "link": "steam://launch/291550/Dialog"
+                "title": "Lorem",
+                "subtitle": "Lorem Ipsum",
+                "link": "#"
               },
               {
                 "icon": "fa-light fa-person-military-rifle",
-                "title": "CS:GO",
-                "subtitle": "Револьвер OneLove",
-                "link": "steam://launch/730/Dialog"
+                "title": "Lorem",
+                "subtitle": "Lorem Ipsum",
+                "link": "#"
               },
               {
                 "icon": "fa-light fa-cards",
-                "title": "Blot",
-                "subtitle": "Բոյը 36",
-                "link": "https://reblot.am"
+                "title": "Lorem",
+                "subtitle": "Lorem Ipsum",
+                "link": "#"
               }
             ],
             "serviceIconBox": [
