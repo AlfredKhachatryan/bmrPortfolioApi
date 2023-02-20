@@ -305,25 +305,25 @@
             ],
             "stats": [
               {
-                "title": "Побед В Турнирах",
-                "number": 0,
-                "interval": 0,
+                "title": "Sit Amet Dictum",
+                "number": 10,
+                "interval": 1,
                 "icon": "fa-solid fa-trophy"
               },
               {
-                "title": "Попыток в Туринирах",
-                "number": 2,
+                "title": "Mecenas Paretra Cnvallis",
+                "number":22,
                 "interval": 1,
                 "icon": "fa-solid fa-check"
               },
               {
-                "title": "Парней в армии",
-                "number": 2,
+                "title": "Eget Felis Eget",
+                "number":10,
                 "interval": 2,
                 "icon": "fa-regular fa-user"
               },
               {
-                "title": "Слитых каток",
+                "title": "Mauris Vitae Ultricies",
                 "number": 4213,
                 "interval": 1,
                 "icon": "themifyicon ti-thumb-up"
