@@ -3,25 +3,25 @@
             "team": [
               {
                 "img": "images/team-member/alfred.jpg",
-                "content": "Ceo of Bloody Moon Riders",
+                "content": "Lorem Ipsum Dolor",
                 "title": "NeonCatRider",
                 "data": "alfred"
               },
               {
                 "img": "images/team-member/ero.jpg",
-                "content": "Best Dota player in BMR",
+                "content": "Lorem Ipsum Dolor",
                 "title": "Septum",
                 "data": "ero"
               },
               {
                 "img": "images/team-member/aram.jpg",
-                "content": "Loli Hunter",
+                "content": "Lorem Ipsum Dolor",
                 "title": "Env33",
                 "data": "aram"
               },
               {
                 "img": "images/team-member/kolya.jpg",
-                "content": "Playing Dota only for CHC",
+                "content": "Lorem Ipsum Dolor",
                 "title": "Delev1n",
                 "data": "kolya"
               }
@@ -786,7 +786,7 @@
               {
                 "name": "Ero",
                 "img": "images/team-member/ero-details.jpg",
-                "pos": "One of the first members of BMR and such a good ",
+                "pos": "One of the first members of BMR",
                 "descrip": [
                   {
                     "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto."
@@ -1021,10 +1021,13 @@
               {
                 "name": "Aram",
                 "img": "images/team-member/aram-details.jpg",
-                "pos": "Administrator of BMR and Gay",
+                "pos": "Administrator of BMR",
                 "descrip": [
                   {
-                    "text": "Fuch english languge, fuck this WebSite, fuch who make this WebSite, my friends is gay-s"
+                    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto."
+                  },
+                  {
+                    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto."
                   }
                 ],
                 "nick": "Env33",
@@ -1041,19 +1044,19 @@
                 ],
                 "awards": [
                   {
-                    "title": "Rogalike Lover",
+                    "title": "Lorem Ipsum",
                     "icon": "fa fa-heart",
-                    "subtitle": "He love when his trying so hard to beat a game , that his face look liks a tomato"
+                    "subtitle": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
                   },
                   {
-                    "title": "#NoDonat",
+                    "title": "Lorem Ipsum",
                     "icon": "fa fa-money",
-                    "subtitle": "He never donated to any game ever"
+                    "subtitle": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
                   },
                   {
-                    "title": "BKB Hater",
-                    "icon": "fa-solid fa-hand-middle-finger",
-                    "subtitle": "He think that BKB is for loser"
+                    "title": "Lorem Ipsum",
+                    "icon": "fa-solid fa-hand",
+                    "subtitle": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
                   }
                 ],
                 "teamInfo": [
@@ -1177,12 +1180,15 @@
                 "pos": "Administrator of BMR",
                 "descrip": [
                   {
-                    "text": "Delev1n started playing Dota 2 only for CHC (Custom Hero Clash) and got pretty good at it, but sucks big black cocks in turbo and all pick. The main genre he plays are shooters and strategy. He hit the first Diamond rank in Rainbow Six Siege."
+                    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto."
+                  },
+                  {
+                    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto."
                   }
                 ],
                 "nick": "Delev1n",
                 "favGame": "Rainbow Six Siege, CS:GO, Dota 2",
-                "gameRank": "No Rank in Dota",
+                "gameRank": "No Rank",
                 "gamePos": "Full Support, Semi-Support",
                 "certif": [
                   {
@@ -1194,19 +1200,19 @@
                 ],
                 "awards": [
                   {
-                    "title": "First Achieved Highest Rank (At the time) in R6S In BMR",
+                    "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
                     "icon": "fa fa-trophy",
-                    "subtitle": "Hit Diamond in Neon Dawn on PC."
+                    "subtitle": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
                   },
                   {
-                    "title": "Real Programmer and Student",
+                    "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
                     "icon": "fa fa-code",
-                    "subtitle": "Studies in Moscow State University in Applied Mathematics."
+                    "subtitle": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
                   },
                   {
-                    "title": "AoE III Veteran",
+                    "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
                     "icon": "fa-solid fa-helmet-battle",
-                    "subtitle": "Started playing Age of Empires III before talking."
+                    "subtitle": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
                   }
                 ],
                 "teamInfo": [
